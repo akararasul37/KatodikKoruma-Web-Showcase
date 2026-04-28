@@ -44,3 +44,5 @@ Projenin geliştirilmesinde en güncel web teknolojileri kullanılmıştır:
 ## 💡 Geliştirici Notu
 
 Bu proje, kurumsal ihtiyaçlara yönelik uçtan uca (Full-Stack) bir web çözümünün nasıl mimarilendirilebileceğini, veritabanı ile ön yüzün nasıl güvenli bir şekilde konuşturulabileceğini ve ASP.NET Core teknolojilerinin gücünü göstermektedir.
+
+**Siteyi görüntülemek için http://31.56.47.11/  (Bu link geçicidir eğer kapalı bulduysanız link geçerliliğini yitirmiştir!)**
